@@ -1,0 +1,12 @@
+HAMBURGUESAS
+ID Pedido: 0
+Cliente: Cristian
+Dirección: Bogotá
+Descripción:
+	combo corral -------------------------------------- $22050
+		 - corral
+		 - papas medianas
+		 - gaseosa
+VALOR NETO: $17860
+IVA: $4189
+TOTAL: $22050
